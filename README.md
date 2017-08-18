@@ -1,6 +1,4 @@
 # Hollownest-top
-A Hollow Knight rainmeter theme bundle for switching backgrounds and launching apps.
 
-Activate all the config files and place the map and charm icons anywhere you want.  Instructions are commented into the .ini files.
-
-If enough people are interested, I have a few ideas on what to do for v2.0 and if anyone wants to critique my code or help with multi-resolution support, then feel free to!
+## Introduction
+This is a rainmeter skin bundle based on the game [Hollow Knight](http://hollowknight.com/).  You need [Rainmeter](https://www.rainmeter.net/) to use this skin. Right now, there are 2 skins. There is one for changing backgrounds based on the hollow knight map. And the second is an app launcher based on the charms menu.
