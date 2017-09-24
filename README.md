@@ -5,7 +5,7 @@ This is a rainmeter skin bundle based on the game [Hollow Knight](http://hollowk
 
 ## Installing the Skins
 ### RMSkin Package
-Simply install download the .rmskin package and the installer will do everything for you!  Well, it will only the map up, you'll have to go into the skin manager and load "CharmLauncher.ini" as well.
+Simply download the .rmskin package here: https://github.com/Tyler-Yocolano/Hollownest-top/releases and the installer will do everything for you!  Well, it will only load the map up, you'll have to go into the skin manager and load "CharmLauncher.ini" as well.
 
 ### Manual Installation
 You can download the .zip file and place the root folder in your "Documents\Rainmeter\Skins\" folder.  Then open the Rainmeter Skin Manager and load both skins.
@@ -22,7 +22,7 @@ The backgrounds for the each section of the map can be found in "@Resources\MapA
 Click the Comapss icon and the Charms menu from Hollow Knight will appear! Add all your favorites in place of charms and include your own descriptions if you want.
 
 #### How to Add Your Own Apps
-To launch your own apps from the Charm Launcher, you'll need to edit the "@Resources\CharmLauncher\RowX.inc" files ('X' is the row you wish to modify).  Each just needs an image file at the charms "ImageName" property and a path to the application where it says "\*Set app path here\*".  Any custom icons can just be placed into the "@Resources\CharmLauncher\Charms\" folder and they will automagically be resized.
+To launch your own apps from the Charm Launcher, you'll need to edit the "\CharmLauncher\RowX.inc" files ('X' is the row you wish to modify).  Each just needs an image file at the charms "ImageName" property and a path to the application where it says "\*Set app path here\*".  Any custom icons can just be placed into the "\CharmLauncher\Charms\" folder and they will automagically be resized.
 
 To edit a specific charm, the charm name can be used to figure out which one you want to edit.  For example, [Charm25] would be the 3rd row and charm 6.  I know, I indexed at 0 and I did X and Y Values backwards! But it made sense when I was doing it so I'm gonna leave it.
 
