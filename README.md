@@ -12,6 +12,12 @@ You can download the .zip file and place the root folder in your "Documents\Rain
 
 ## The Skins
 
+### __*Important:*__
+Open the files "Hollownest-top\MapAndBackground\Map\Map.ini" and "Hollownest-top\CharmLauncher\Charms\Charms.ini".  In the [Variables] Section, change ````ResolutionX=1920```` and ````ResolutionY=1080```` to your actual resolution.  The assets should now scale to your resolution.
+
+*__warning__: it might look ugly though, its based on 16:9 resolution.*
+
+
 ### Map and Background
 Click the Map & Quill icon to see a map of Hollownest.  Select any area and your background will be changed to that area!
 
