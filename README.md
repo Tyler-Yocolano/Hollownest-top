@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a rainmeter skin bundle based on the game [Hollow Knight](http://hollowknight.com/).  You need [Rainmeter v4.0](https://www.rainmeter.net/) or greater to use this skin.  If you're currently using v1.0.1 or less of this skin, I recommend completely deleting the folder and reinstalling the newest release.  I've updated the file structure so custom apps will stay saved in future updates from now on.
+This is a rainmeter skin bundle based on the game [Hollow Knight](http://hollowknight.com/).  You need [Rainmeter v4.0](https://www.rainmeter.net/) or greater to use this skin.
 
 ## Installing the Skins
 
@@ -43,4 +43,3 @@ To edit a specific charm, the charm name can be used to figure out which one you
 ## Known Issues
 
 - Currently made for 1920x1080 monitors.  Any help making it more dynamic in that sense would be appreciated!
-- The Dirtmouth background has suddenly stopped working on Windows 10 for me.  It asks me to find an app to launch it with.  If anyone else encounters this let me know!
